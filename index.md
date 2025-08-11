@@ -11,3 +11,6 @@ Hi! My name is Charlotte Kim. I am a fourth year Computer Science and Engineerin
 + C++
 
 ## Projects
+Sequencing Explanation
+
+https://youtu.be/bT4gljZh7CE
